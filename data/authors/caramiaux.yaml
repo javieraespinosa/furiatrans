@@ -1,0 +1,35 @@
+schema: hugoblox/author/v1
+slug: caramiaux
+is_owner: false
+name:
+  display: Baptiste Caramiaux
+  given: Baptiste
+  family: Caramiaux
+  pronouns: 
+role: 'Chargé de Recherche'
+bio: ""
+affiliations:
+  - name: CNRS
+    url: https://www.cnrs.fr/
+  - name: ISIR
+    url: https://isir.upmc.fr/  
+links:
+  # - icon: at-symbol
+  #   url: mailto:coda-madics-pi@groupes.renater.fr
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://x.com/MakeOwnable
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/cv
+  #   url: uploads/resume.pdf
+  #   label: Download my resume
+  # - icon: rss
+  #   url: ./events/index.xml
+  #   label: Subscribe to my blog via RSS feed
+user_groups:
+  - Organizers
+
+website: https://baptistecaramiaux.com
