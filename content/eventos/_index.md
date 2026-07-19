@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Eventos
 type: landing
 
 sections:
@@ -19,7 +19,7 @@ sections:
 
   - block: collection
     content:
-      title: Evénements
+      title: Eventos
       count: 0
       sort_by: Params.event_start
       sort_ascending: false

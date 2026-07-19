@@ -1,18 +1,16 @@
 schema: hugoblox/author/v1
-slug: caramiaux
+slug: melito
 is_owner: false
 name:
-  display: Baptiste Caramiaux
-  given: Baptiste
-  family: Caramiaux
+  display: Melany Obando
+  given: Melany
+  family: Obando
   pronouns: 
-role: 'Chargé de Recherche'
+role: 'Compañera'
 bio: ""
 affiliations:
-  - name: CNRS
-    url: https://www.cnrs.fr/
-  - name: ISIR
-    url: https://isir.upmc.fr/  
+  - name: Fundación FuriaTrans
+    url: https://www.instagram.com/fundacionfuriatrans/ 
 links:
   # - icon: at-symbol
   #   url: mailto:coda-madics-pi@groupes.renater.fr
@@ -30,6 +28,6 @@ links:
   #   url: ./events/index.xml
   #   label: Subscribe to my blog via RSS feed
 user_groups:
-  - Organizers
+  - Equipa
 
-website: https://baptistecaramiaux.com
+website: https://www.instagram.com/fundacionfuriatrans/ 

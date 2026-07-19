@@ -1,20 +1,17 @@
 schema: hugoblox/author/v1
-slug: bevilacqua
+slug: malony
 is_owner: false
 name:
-  display: Frédéric Bevilacqua
-  given: Frédéric 
-  family: Bevilacqua
+  display: Malóny Chávez
+  given: Malóny 
+  family: Chávez
   pronouns: 
-role: 'Directeur de Recherche'
+role: 'Directora'
 bio: ""
 affiliations:
-  - name: CNRS
-    url: https://www.cnrs.fr/
-  - name: IRCAM
-    url: http://www.ircam.fr/
-  - name: STMS
-    url: https://www.stms-lab.fr
+  - name: Fundación FURIATRANS
+    url: https://www.instagram.com/fundacionfuriatrans/
+
 
 links:
   # - icon: at-symbol
@@ -33,6 +30,6 @@ links:
   #   url: ./events/index.xml
   #   label: Subscribe to my blog via RSS feed
 user_groups:
-  - Organizers
+  - Equipa
 
-website: https://frederic-bevilacqua.net
+website: https://www.linkedin.com/in/malony-chávez-0255453bb/

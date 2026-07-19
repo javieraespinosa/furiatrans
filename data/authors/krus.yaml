@@ -1,18 +1,18 @@
 schema: hugoblox/author/v1
-slug: vargas
+slug: kruskaya
 is_owner: false
 name:
-  display: Genoveva Vargas-Solar
-  given: Genoveva
-  family: Vargas-Solar
+  display: Kruskaya Hidalgo Cordero
+  given: Kruskaya 
+  family: Hidalgo Cordero
   pronouns: 
-role: "Chargée de Recherche"
+role: 'Compañera'
 bio: ""
 affiliations:
-  - name: CNRS
-    url: https://www.cnrs.fr/
-  - name: LIRIS
-    url: https://liris.cnrs.fr/    
+  - name: Observarotorio de Plataformas
+    url: linktr.ee/ObservatorioDePlataformas
+
+
 links:
   # - icon: at-symbol
   #   url: mailto:coda-madics-pi@groupes.renater.fr
@@ -29,8 +29,7 @@ links:
   # - icon: rss
   #   url: ./events/index.xml
   #   label: Subscribe to my blog via RSS feed
-
 user_groups:
   - Equipa
 
-website: http://www.vargas-solar.com/
+website: https://www.instagram.com/observatorio_plataformas/

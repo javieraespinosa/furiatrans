@@ -1,28 +1,25 @@
 ---
-title: Questions de Recherche
+title: Preguntas
 share: false
 reading_time: false
 type: page
 ---
 
-CODA s’organise autour de questions clés :
+FuRIA propone preguntas fundamentales sobre la tecnología:
 
-#### Données et société
+#### Hacia una tecnología por y para cuerpas trans
 
-* Comment produire et gouverner les données de manière équitable et responsable ?
-* Comment éviter les logiques extractivistes dans la collecte et l’utilisation des données ?
+* ¿Qué pasa cuando la tecnología por cuerpas que les atraviesa la putería y la resistencia?
+* ¿Cómo hacer que la tecnología no repita las desigualdades de siempre que dejan a la mujeres trans en las márgenes?
 
-#### Algorithmes et justice
-* Comment intégrer la diversité des expériences humaines dans les modèles d’IA ?
-* Comment rendre les algorithmes auditable, explicables et responsables ?
+#### Futuros tecnológicos respetuosos de saberes de la calle
+* ¿Cómo pensar y fabular futuros tecnológicos posibles para tener el tiempo y el espacio para compartir sus saberes y resiginificar lenguajes puteriles del trabajo sexual?
+* Si sabemos cómo es vivir en las márgenes, ¿Cómo se ve y cómo se siente la tecnología cuando es hecha por las mujeres trans trabajadoras sexuales?
 
-#### Art et computation
-* Comment les artistes peuvent-ils révéler les biais et les structures invisibles des systèmes algorithmiques ?
-* Comment les pratiques artistiques peuvent-elles inspirer de nouvelles méthodes scientifiques ?
+#### Otra IA
+* ¿Cómo hace una IA que huela a esquina con un pacto de compañeras con un código travesti?
+* ¿Cómo se crea una IA con ética callejera con la gramática del trabajo sexual?
+* ¿Cómo no diseñar productos, ni promvoer proyectos sino construir de forma colectiva, a través de procesos?
+* ¿Cómo concebir una investigación feminista, decolonial que ponga en el centro la vida de las mujeres trans sin separar conocimiento de la acción política?
 
-#### Souveraineté et infrastructures numériques
-* Comment développer des infrastructures de données et d’IA plus souveraines et ouvertes ?
-* Comment réduire la dépendance aux technologies dominantes ?
 
-#### Écologie du numérique
-* Comment concevoir des systèmes de données et d’IA plus sobres et soutenables ?

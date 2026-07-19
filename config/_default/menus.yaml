@@ -4,40 +4,36 @@
 
 main:
 
-  - name: Accueil
+  - name: Inicio
     url: /
     weight: 1
 
-  - name: A propos
+  - name: Presentación
     url: /about
     weight: 10
 
-  - name: Evénements
-    url: /events
+  - name: Eventos
+    url: /eventos
     weight: 20
 
 
-  - name: Communauté
+  - name: Equipa
     url: /#organizers
     weight: 70  
 
-  - name: Contact
+  - name: Contactarnos
     url: /#contact
     weight: 80    
 
-  - name: Ressources
+  - name: Recursos
     weight: 90
     hasChildren: true
 
-  - parent: "Ressources"
-    name: Questions de Recherche
+  - parent: "Recursos"
+    name: Preguntas
     url: /questions
     weight: 91    
 
-  - parent: "Ressources"
-    name: Cartographie
-    url: /cartographie
-    weight: 92    
 
 
 

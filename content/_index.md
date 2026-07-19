@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Inicio'
 date: 2023-10-24
 type: landing
 
@@ -13,16 +13,16 @@ sections:
     id: hero
     content:
       username: me
-      greeting: "Computing + Data + Art"
+      greeting: "Trans + Trabajo Sexual + IA"
       show_status: false
       show_scroll_indicator: false
       typewriter:
         enable: true
-        prefix: "Vers des pratiques algorithmiques"
+        prefix: "Hacia una IA que huela a calle"
         strings:
-          - "responsables"
-          - "plurielles"
-          - "créatives"
+          - "travesti"
+          - "puteril"
+          - "solidaria"
         type_speed: 70
         delete_speed: 30
         pause_time: 1500
@@ -54,7 +54,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: ""
           text: > 
-            CODA construit un espace où les données, les algorithmes et la création deviennent des instruments pour imaginer des futurs plus justes, pluralistes et responsables.
+            FuRIA construcción de Tecnología IA feminista junto a Trabajadoras Sexuales Trans en Ecuador.
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
@@ -63,9 +63,9 @@ sections:
   - block: people
     id: organizers
     content:
-      title: Communauté
-      text: "Porteur·euses"
-      user_groups: ['Organizers']
+      title: Equipa
+      text: "Fundación FuRIATrans - Observatorio de Plataformas - CNRS"
+      user_groups: ['Equipa']
     design:
       show_role: true
       show_social: false
@@ -86,11 +86,11 @@ sections:
   - block: cta-card
     id: contact
     content:
-      title: "Contactez-nous"
-      text: "Vous avez une question ?"
+      title: "Contáctanos"
+      text: "¿Tienes preguntas?"
       button:
         text: "Send Email"
-        url: "mailto:coda-madics-pi@groupes.renater.fr"
+        url: "mailto:furia.tecnologiatravesti@framagroupes.org"
     design:
       card:
         # Card background color (CSS class)

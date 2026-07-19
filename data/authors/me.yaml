@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: CODA
-  given: Atelier
-  family: MADICS
-  pronouns: Computing + Data + Art
+  display: FuRIA
+  given: Proyecto Semilla
+  family: IAfeminista
+  pronouns: Trans + Trabajo Sexual + IA
 role: 
-bio: "Atelier du GDR MADICS"
+bio: "Proyecto Semilla - IAfeminista"
 # affiliations:
 #   - name: Stanford University
 #     url: https://www.stanford.edu/
 links:
   - icon: at-symbol
-    url: mailto:coda-madics-pi@groupes.renater.fr
+    url: mailto:furia.tecnologiatravesti@framagroupes.org
     label: E-mail Me
   # - icon: brands/x
   #   url: https://x.com/MakeOwnable
@@ -28,4 +28,4 @@ links:
     url: ./events/index.xml
     label: Subscribe to my blog via RSS feed
 
-website: https://www.madics.fr/
+website: https://iafeminista.lat/
