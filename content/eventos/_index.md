@@ -20,12 +20,12 @@ sections:
   - block: collection
     content:
       title: Eventos
-      count: 0
+      count: 3
       sort_by: Params.event_start
       sort_ascending: false
       filters:
         folders:
-          - events        
+          - eventos        
     design:
       view: article-grid # card, article-grid
 
