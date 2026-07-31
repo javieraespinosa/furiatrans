@@ -89,22 +89,23 @@ sections:
       text: 
       user_groups:
         - Equipa
-        - name: Alumni          # optional per-group sort override
-          sort_by: graduation_year
-          sort_ascending: false
-      sort_by: 'graduation_year' # legacy 'Params.' prefix optional
-      sort_ascending: false
-      cta:
-        text: Join Our Team
-        url: /opportunities
-        icon: user-plus
+        
+        # - name: Alumni          # optional per-group sort override
+        #   sort_by: graduation_year
+        #   sort_ascending: false
+      sort_by: 'weight' # legacy 'Params.' prefix optional
+      sort_ascending: true
+      # cta:
+      #   text: Join Our Team
+      #   url: /opportunities
+      #   icon: user-plus
     design:
       show_role: true
       show_organizations: true
       show_interests: true
       max_interests: 3   # set 0 to hide interests even if provided
       align: center      # or "left" to align header + CTA left
-      max_columns: 4     # 2, 3, or 4
+      max_columns: 3     # 2, 3, or 4
       show_social: true
       show_empty_groups: false # show a placeholder when a group has no members
       # Section background color (CSS class)
@@ -117,7 +118,9 @@ sections:
   - block: contact-info
     content:
       title: Escríbenos
-      subtitle: 
+      connect_title: "Contacto"
+      subtitle: ""
+      text: "Puedes escribirnos a:"
       # visit_title: Visit us
       # address:
       #   lines:
@@ -128,21 +131,21 @@ sections:
       #   - "Mon–Thu: 10:00–16:00"
       #   - "Fri: Remote"
       # map_url: https://maps.google.com/?q=Cambridge
-      email: furia.tecnologiatravesti@framagroupes.org
+      email: furia.tecnologiatravesti@proton.me
       # phone: +1 415 000 0000
-      social:
-        - icon: brands/linkedin
-          url: https://linkedin.com/company/hugoblox
-        - icon: brands/x
-          url: https://x.com/hugoblox
-      prospective:
-        title: Prospective members
-        text: Tell us about your research interests and links to prior work.
-        button:
-          text: Apply
-          url: /apply
-      show_form: true
-      form_action: https://formspree.io/f/example 
+      # social:
+      #   - icon: brands/linkedin
+      #     url: https://linkedin.com/company/hugoblox
+      #   - icon: brands/x
+      #     url: https://x.com/hugoblox
+      # prospective:
+      #   title: Prospective members
+      #   text: Tell us about your research interests and links to prior work.
+      #   button:
+      #     text: Apply
+      #     url: /apply
+      # show_form: true
+      # form_action: https://formspree.io/f/example 
 
 
   # - block: logos

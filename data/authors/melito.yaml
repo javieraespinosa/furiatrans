@@ -2,11 +2,11 @@ schema: hugoblox/author/v1
 slug: melito
 is_owner: false
 name:
-  display: Melany Obando
-  given: Melany
+  display: Melanny Obando
+  given: Melanny
   family: Obando
   pronouns: 
-role: 'Compañera'
+role: 'Comunicadora comunitaria'
 bio: ""
 affiliations:
   - name: Fundación FuriaTrans

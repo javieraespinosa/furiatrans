@@ -6,7 +6,7 @@ name:
   given: Genoveva
   family: Vargas-Solar
   pronouns: 
-role: "Chargée de Recherche"
+role: "Investigadora Principal"
 bio: ""
 affiliations:
   - name: CNRS
@@ -30,6 +30,7 @@ links:
   #   url: ./events/index.xml
   #   label: Subscribe to my blog via RSS feed
 
+weight: 3
 user_groups:
   - Equipa
 

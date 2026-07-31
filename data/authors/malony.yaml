@@ -6,11 +6,13 @@ name:
   given: Malóny 
   family: Chávez
   pronouns: 
-role: 'Directora'
+role: 'Presidenta'
 bio: ""
 affiliations:
-  - name: Fundación FURIATRANS
+  - name: Fundación FuriaTrans
     url: https://www.instagram.com/fundacionfuriatrans/
+  - name: chavezmalony
+    url: https://www.instagram.com/chavezmalony
 
 
 links:
@@ -29,6 +31,8 @@ links:
   # - icon: rss
   #   url: ./events/index.xml
   #   label: Subscribe to my blog via RSS feed
+
+weight: 1
 user_groups:
   - Equipa
 

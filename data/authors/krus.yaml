@@ -6,12 +6,11 @@ name:
   given: Kruskaya 
   family: Hidalgo Cordero
   pronouns: 
-role: 'Compañera'
+role: 'Investigadora'
 bio: ""
 affiliations:
   - name: Observarotorio de Plataformas
-    url: linktr.ee/ObservatorioDePlataformas
-
+    url: https://linktr.ee/ObservatorioDePlataformas
 
 links:
   # - icon: at-symbol
@@ -29,6 +28,9 @@ links:
   # - icon: rss
   #   url: ./events/index.xml
   #   label: Subscribe to my blog via RSS feed
+
+
+weight: 2
 user_groups:
   - Equipa
 

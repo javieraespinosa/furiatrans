@@ -6,10 +6,10 @@ name:
   given: María Auxilio
   family: Medina Nieto
   pronouns: 
-role: "Profesora investigadora"
+role: "Profesora-Investigadora"
 bio: ""
 affiliations:
-  - name: FurIA Equipo Técnico
+  - name: Equipo Técnico FurIA 
     url: https://www.linkedin.com/in/maría-auxilio-medina-nieto-997060b3/   
 links:
   # - icon: at-symbol
