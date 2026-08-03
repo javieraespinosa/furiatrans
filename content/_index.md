@@ -21,7 +21,7 @@ sections:
         prefix: "Hacia una IA que huela a calle"
         strings:
           - "travesti"
-          - "puteril"
+          - "resistencia"
           - "solidaria"
         type_speed: 70
         delete_speed: 30
