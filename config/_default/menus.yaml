@@ -12,28 +12,32 @@ main:
     url: /about
     weight: 10
 
-  - name: Eventos
-    url: /eventos
+  - name: Actividades
+    url: /actividades
     weight: 20
+    hasChildren: true
 
-
-  - name: Equipa
-    url: /#organizers
-    weight: 70  
-
-  - name: Contactarnos
-    url: /#contact
-    weight: 80    
+  - name: Novedades
+    url: /novedades
+    weight: 30
+    hasChildren: true
 
   - name: Recursos
-    weight: 90
+    weight: 80
     hasChildren: true
 
   - parent: "Recursos"
     name: Preguntas
     url: /questions
-    weight: 91    
+    weight: 81    
 
+  - name: Equipa
+    url: /#equipa
+    weight: 90  
+
+  - name: Contactarnos
+    url: /#contact
+    weight: 100    
 
 
 

@@ -21,7 +21,7 @@ sections:
         prefix: "Hacia una IA que huela a calle"
         strings:
           - "travesti"
-          - "resistencia"
+          - " en resistencia"
           - "solidaria"
         type_speed: 70
         delete_speed: 30
@@ -59,7 +59,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: ""
           text: > 
-            FuRIA construcción de Tecnología IA feminista junto a Trabajadoras Sexuales Trans en Ecuador.
+            furIA construcción de Tecnología IA feminista junto a Trabajadoras Sexuales Trans en Ecuador. ¡Conoce el proyecto!
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
@@ -83,6 +83,7 @@ sections:
 
 
   - block: team-showcase
+    id: equipa
     content:
       title: Equipa
       subtitle: Fundación FuRIATrans - Observatorio de Plataformas - CNRS

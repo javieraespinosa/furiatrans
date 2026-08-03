@@ -2,14 +2,14 @@ schema: hugoblox/author/v1
 slug: malony
 is_owner: false
 name:
-  display: Malóny Chávez
-  given: Malóny 
+  display: Malony Chávez
+  given: Malony 
   family: Chávez
   pronouns: 
 role: 'Presidenta'
 bio: ""
 affiliations:
-  - name: Fundación FuriaTrans
+  - name: Fundación Furia Trans
     url: https://www.instagram.com/fundacionfuriatrans/
   - name: chavezmalony
     url: https://www.instagram.com/chavezmalony

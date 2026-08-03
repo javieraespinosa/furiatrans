@@ -5,7 +5,7 @@ reading_time: false
 type: page
 ---
 
-FuRIA propone preguntas fundamentales sobre la tecnología:
+furIA propone preguntas fundamentales sobre la tecnología:
 
 #### Hacia una tecnología por y para cuerpas trans
 

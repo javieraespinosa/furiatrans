@@ -1,5 +1,5 @@
 ---
-title: Eventos
+title: Novedades
 type: landing
 
 sections:
@@ -19,13 +19,13 @@ sections:
 
   - block: collection
     content:
-      title: Eventos
+      title: Novedades
       count: 3
       sort_by: Params.event_start
       sort_ascending: false
       filters:
         folders:
-          - eventos        
+          - novedades        
     design:
       view: article-grid # card, article-grid
 
