@@ -39,5 +39,8 @@ share: false
 profile: false
 ---
 
+## Facilitadoras
+
+Malonny Chávez, Fundación Furia Trans y Ana Cisneros, ODP.
 > [!NOTE]
 > To be completed
