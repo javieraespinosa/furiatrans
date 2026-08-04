@@ -33,7 +33,7 @@ Con esto buscamos visibilizar violencias invisibilizadas, fortalecer redes de ap
 
 
 ## Iniciativa
-Somos un proyecto en desarrollo de la red [IAfeminista](www.iafeminista.lat). La iniciativa incluye una plataforma para denunciar violaciones a los derechos humanos que permite documentar cuantitativamente esta problemática; un glosario trans construido a partir del lenguaje propio de la comunidad mediante técnicas de procesamiento de lenguaje natural (PLN); un directorio de servicios gratuitos de apoyo legal y psicosocial; guías y rutas para realizar denuncias; y recomendaciones comunitarias para el autocuidado y la defensa de los derechos.
+Somos un proyecto en desarrollo de la red [IAfeminista](http://www.iafeminista.lat). La iniciativa incluye una plataforma para denunciar violaciones a los derechos humanos que permite documentar cuantitativamente esta problemática; un glosario trans construido a partir del lenguaje propio de la comunidad mediante técnicas de procesamiento de lenguaje natural (PLN); un directorio de servicios gratuitos de apoyo legal y psicosocial; guías y rutas para realizar denuncias; y recomendaciones comunitarias para el autocuidado y la defensa de los derechos.
 
 
 <!-- ## Communauté 
