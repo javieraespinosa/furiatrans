@@ -35,7 +35,7 @@ main:
     url: /#equipa
     weight: 90  
 
-  - name: Escríbenos
+  - name: Contáctanos
     url: /#contact
     weight: 100    
 

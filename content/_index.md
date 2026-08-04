@@ -42,12 +42,14 @@ sections:
           # filename: bg-triangles.svg
           filename: bg.png
           filters:
-            # brightness: 0.5          
+            # brightness: 0          
+        text_color_light: false
         color:
-          light: "#fafafa"
-          dark: "#0a0a0f"
+          # light: "#fafafa"
+          # dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
+
 
   - block: testimonials
     content:
@@ -116,12 +118,12 @@ sections:
 
 
 
-  - block: contact-info
-    content:
-      title: Escríbenos
-      connect_title: "Contacto"
-      subtitle: ""
-      text: "Puedes escribirnos a:"
+  # - block: contact-info
+  #   content:
+  #     title: Escríbenos
+  #     connect_title: "Contacto"
+  #     subtitle: ""
+  #     text: "Puedes escribirnos a:"
       # visit_title: Visit us
       # address:
       #   lines:
@@ -132,7 +134,7 @@ sections:
       #   - "Mon–Thu: 10:00–16:00"
       #   - "Fri: Remote"
       # map_url: https://maps.google.com/?q=Cambridge
-      email: furia.tecnologiatravesti@proton.me
+      # email: furia.tecnologiatravesti@proton.me
       # phone: +1 415 000 0000
       # social:
       #   - icon: brands/linkedin
@@ -176,40 +178,25 @@ sections:
   #     css_class: "bg-gray-50 dark:bg-gray-900"
 
 
+  - block: cta-card
+    id: contact
+    content:
+      title: "Contáctanos"
+      text: "furia.tecnologiatravesti@proton.me"
+      button:
+        text: "Send Email"
+        url: "mailto:furia.tecnologiatravesti@proton.me"
+    design:
+      card:
+        # Card background color (CSS class)
+        # css_class: 'bg-primary-900 dark:bg-primary-900'
+        css_style: ''    
+      background:
+        # color: "blue-600"
+        text_color_light: true
+      spacing:
+        padding: ["6", "6", "6", "6"]
 
-  # - block: collection
-  #   content:
-  #     title: Novedades
-  #     count: 1
-  #     sort_by: Params.event_start
-  #     sort_ascending: false
-  #     filters:
-  #       folders:
-  #         - eventos       
-  #     archive:
-  #       enable: true           
-  #   design:
-  #     view: card # card, article-grid
-
-
-  # - block: cta-card
-  #   id: contact
-  #   content:
-  #     title: "Contáctanos"
-  #     text: "¿Tienes preguntas?"
-  #     button:
-  #       text: "Send Email"
-  #       url: "mailto:furia.tecnologiatravesti@framagroupes.org"
-  #   design:
-  #     card:
-  #       # Card background color (CSS class)
-  #       # css_class: 'bg-primary-900 dark:bg-primary-900'
-  #       css_style: ''    
-  #     background:
-  #       # color: "blue-600"
-  #       text_color_light: true
-  #     spacing:
-  #       padding: ["6", "6", "6", "6"]
 
 
 ---
