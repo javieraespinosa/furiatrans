@@ -86,7 +86,7 @@ sections:
     id: equipa
     content:
       title: Equipa
-      subtitle: Fundación FuRIATrans - Observatorio de Plataformas - CNRS
+      subtitle: Fundación FuRIATrans | Observatorio de Plataformas | Universidad Politécnica de Puebla | CNRS-LIRIS
       text: 
       user_groups:
         - Equipa
