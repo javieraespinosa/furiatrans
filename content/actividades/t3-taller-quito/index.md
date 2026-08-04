@@ -33,7 +33,7 @@ image:
 # Featured
 featured: false
 
-draft: true
+draft: false
 reading_time: false
 share: false
 profile: false
