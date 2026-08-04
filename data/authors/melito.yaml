@@ -2,12 +2,12 @@ schema: hugoblox/author/v1
 slug: melito
 is_owner: false
 name:
-  display: Melanny Obando
-  given: Melanny
+  display: Melany Obando
+  given: Melany
   family: Obando
   pronouns: 
 role: 'Comunicadora comunitaria'
-bio: ""
+bio: "El trabajo sexual es trabajo, negarlo es violencia."
 affiliations:
   - name: Fundación Furia Trans
     url: https://www.instagram.com/fundacionfuriatrans/ 
