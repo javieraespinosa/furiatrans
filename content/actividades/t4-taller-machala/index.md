@@ -41,6 +41,6 @@ profile: false
 
 ## Facilitadoras
 
-Malonny Chávez, Fundación Furia Trans y Ana Cisneros, ODP.
+Malony Chávez, Fundación Furia Trans y Ana Cisneros, ODP.
 > [!NOTE]
-> To be completed
+> Los resultados de los talleres nos permiten diseñar tecnología travesti con datos e IA decolonial y para la resistencia al olvido y la exclusión.
