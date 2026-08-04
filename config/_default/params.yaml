@@ -107,7 +107,7 @@ hugoblox:
     # Feature toggles
     search: false
     theme_toggle: false
-    theme_picker: false
+    theme_picker: true
     language_switcher: false
     # Call-to-action button
     cta:

@@ -88,14 +88,14 @@ sections:
     id: equipa
     content:
       title: Equipa
-      subtitle: Fundación FuRIATrans | Observatorio de Plataformas | Universidad Politécnica de Puebla | CNRS-LIRIS
+      subtitle: > 
+        Fundación FuRIATrans </br>        
+        Observatorio de Plataformas </br>
+        Universidad Politécnica de Puebla </br>
+        CNRS-LIRIS
       text: 
       user_groups:
         - Equipa
-        
-        # - name: Alumni          # optional per-group sort override
-        #   sort_by: graduation_year
-        #   sort_ascending: false
       sort_by: 'weight' # legacy 'Params.' prefix optional
       sort_ascending: true
       # cta:
@@ -118,12 +118,13 @@ sections:
 
 
 
-  # - block: contact-info
-  #   content:
-  #     title: Escríbenos
-  #     connect_title: "Contacto"
-  #     subtitle: ""
-  #     text: "Puedes escribirnos a:"
+  - block: contact-info
+    id: contact
+    content:
+      title: Escríbenos
+      connect_title: "Contacto"
+      subtitle: ""
+      text: "Puedes escribirnos a:"
       # visit_title: Visit us
       # address:
       #   lines:
@@ -134,7 +135,7 @@ sections:
       #   - "Mon–Thu: 10:00–16:00"
       #   - "Fri: Remote"
       # map_url: https://maps.google.com/?q=Cambridge
-      # email: furia.tecnologiatravesti@proton.me
+      email: furia.tecnologiatravesti@proton.me
       # phone: +1 415 000 0000
       # social:
       #   - icon: brands/linkedin
@@ -147,8 +148,8 @@ sections:
       #   button:
       #     text: Apply
       #     url: /apply
-      # show_form: true
-      # form_action: https://formspree.io/f/example 
+      show_form: true
+      form_action: https://formspree.io/f/example 
 
 
   # - block: logos
@@ -176,27 +177,5 @@ sections:
   #   design:
   #     display_mode: grid
   #     css_class: "bg-gray-50 dark:bg-gray-900"
-
-
-  - block: cta-card
-    id: contact
-    content:
-      title: "Contáctanos"
-      text: "furia.tecnologiatravesti@proton.me"
-      button:
-        text: "Send Email"
-        url: "mailto:furia.tecnologiatravesti@proton.me"
-    design:
-      card:
-        # Card background color (CSS class)
-        # css_class: 'bg-primary-900 dark:bg-primary-900'
-        css_style: ''    
-      background:
-        # color: "blue-600"
-        text_color_light: true
-      spacing:
-        padding: ["6", "6", "6", "6"]
-
-
 
 ---
