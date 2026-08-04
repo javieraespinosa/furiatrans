@@ -3,45 +3,32 @@ title: Actividades
 type: landing
 
 sections:
-
-  # - block: collection
-  #   content:
-  #     title: Focus
-  #     count: 0
-  #     sort_by: Params.event_start
-  #     sort_ascending: false
-  #     filters:
-  #       folders:
-  #         - events   
-  #       featured_only: true     
-  #   design:
-  #     view: card # card, article-grid
-
   - block: collection
     content:
       title: Actividades
-      count: 3
+      text: Fresh from the lab notebook.
+      count: 0
+      # page_type: post
       sort_by: Params.event_start
       sort_ascending: false
       filters:
         folders:
-          - actividades        
+          - actividades
+        exclude_past: false
+        # tags:
+        #   - alignment
+        #   - evaluations
+        featured_only: false
+      # archive:
+      #   enable: true
+      #   text: Ver todas las actividades
+      #   link: actividades/
     design:
-      view: article-grid # card, article-grid
+      view: article-grid
+      columns: 2
+      fill_image: true
+      show_date: true
+      show_read_time: true
+      show_read_more: true
 
-
-
-
-  # - block: collection
-  #   content:
-  #     title: Recent & Upcoming Events
-  #     filters:
-  #       folders:
-  #         - events
-  #       exclude_past: true
-  #     count: 2
-  #     sort_ascending: false
-  #     sort_by: Params.event_start
-  #   design:
-  #     view: card # article-grid      
 ---
