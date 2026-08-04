@@ -1,10 +1,10 @@
 ---
-title: "Co-construcción de conocimiento técnico"
+title: "Talleres comunitarios con las organizaciones de trabajadoras sexuales trans de Ecuador"
 date: 2026-05-30
 
 
 # Summary for listing cards
-summary: "Talleres comunitarios con las organizaciones de trabajadoras sexuales trans de Ecuador"
+summary: "Metodología travesti para construir talleres comunitarios lidereados por compañeras trabajadoras sexuales trans con sus propios lenguajes y términos."
 
 # Event details
 location: ''
