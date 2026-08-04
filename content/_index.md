@@ -36,7 +36,7 @@ sections:
     design:
       style: centered
       avatar_shape: circle
-      animations: true
+      animations: false
       background:
         image:
           filename: bg.png
@@ -113,7 +113,7 @@ sections:
           text: >
             Presentamos furIA, Inteligencia Artificial feminista, diversa y comunitaria.
             Con desarrollo en Ecuador [Observatorio de Plataformas](https://www.linkedin.com/company/observatorio-de-plataformas-odp/posts/?feedView=all),  México (Universidad de Politécnica de Puebla) y Francia [Centro Nacional de la Investigación Científica](https://www.cnrs.fr/fr), la tecnología se co-crea junto a trabajadoras sexuales trans. Porque la IA también tiene que defender nuestros derechos. 
-          # image: logo.png
+          image: authors/krus.jpg
           # feature_icon: hero/check-circle
 
 
@@ -150,12 +150,12 @@ sections:
             - Mapa comunitario de emprendimientos.
             - Glosario trans inteligente, que preserva el lenguaje callejero.
             - "Directorio de apoyo legal, psicosocial y de autocuidado. Con esto buscamos visibilizar violencias invisibilizadas, fortalecer redes de apoyo y redistribuir el poder epistémico: la comunidad decide qué datos se recogen y cómo se usan."
-          image: people.jpg
+          image: authors/ana.jpg
 
         - title: Iniciativa
           text: >
             Somos un proyecto en desarrollo de la red [IAfeminista](https://iafeminista.lat). La iniciativa incluye una plataforma para denunciar violaciones a los derechos humanos que permite documentar cuantitativamente esta problemática; un glosario trans construido a partir del lenguaje propio de la comunidad mediante técnicas de procesamiento de lenguaje natural (PLN); un directorio de servicios gratuitos de apoyo legal y psicosocial; guías y rutas para realizar denuncias; y recomendaciones comunitarias para el autocuidado y la defensa de los derechos.
-          image: VocesTierra_DatosCielo_MujeresChiquitanas1-1024x768.jpg
+          image: authors/pilar.jpg
 
 
 
