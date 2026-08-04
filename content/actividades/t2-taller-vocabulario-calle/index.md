@@ -7,7 +7,7 @@ summary: ""
 
 # Event details
 location: ""
-abstract: ""
+abstract: "Exploramos el lenguaje bravo como memoria, resistencia y herramienta de creación. Al reconocer sus palabras, códigos y formas de nombrar el mundo, abrimos nuevos imaginarios tecnológicos y brechas para que las identidades trans ocupen la calle y el espacio digital, hagan visibles sus saberes y reivindiquen los espacios que históricamente les han sido negados."
 
 # Talk start and end times (ISO 8601)
 event_start: '2026-03-15T12:00:00Z'
