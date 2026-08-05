@@ -112,7 +112,7 @@ sections:
         - title: "Presentación"
           text: >
             Presentamos furIA, Inteligencia Artificial feminista, diversa y comunitaria.
-            Con desarrollo en Ecuador [Observatorio de Plataformas](https://www.linkedin.com/company/observatorio-de-plataformas-odp/posts/?feedView=all),  México (Universidad de Politécnica de Puebla) y Francia [Centro Nacional de la Investigación Científica](https://www.cnrs.fr/fr), la tecnología se co-crea junto a trabajadoras sexuales trans. Porque la IA también tiene que defender nuestros derechos. 
+            Con desarrollo en Ecuador [Fundación Furia Trans] (https://www.instagram.com/fundacionfuriatrans/) y [Observatorio de Plataformas](https://www.linkedin.com/company/observatorio-de-plataformas-odp/posts/?feedView=all),  México Universidad de Politécnica de Puebla y Francia [Centro Nacional de la Investigación Científica](https://www.cnrs.fr/fr), la tecnología se co-crea junto a trabajadoras sexuales trans. Porque la IA también tiene que defender nuestros derechos. 
           image: authors/krus.jpg
           # feature_icon: hero/check-circle
 
