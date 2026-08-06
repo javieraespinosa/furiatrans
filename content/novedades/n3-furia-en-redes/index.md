@@ -19,7 +19,7 @@ event_all_day: true
 
 authors: []
 tags:
-  - Talleres en campo
+  - Visibilidad en medios
 
 
 # Featured image
