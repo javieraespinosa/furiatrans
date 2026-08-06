@@ -1,5 +1,5 @@
 ---
-title: "Viajando por Ecuador para realizar los talleres comunitarios"
+title: "Viajando por Ecuador: Malony y Melito en Machala"
 date: 2026-06-04
 
 
@@ -29,7 +29,7 @@ image:
 
 # Links
 links:
-    - name: Video clip Instagram
+    - name: Video clip Instagram Malony y Melito en Machala
     - url: https://www.instagram.com/p/DY7uQAQqXUm/
   #icon: document
 
