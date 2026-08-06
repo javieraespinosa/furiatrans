@@ -40,4 +40,4 @@ profile: false
 ---
 
 > [!NOTE]
-> To be completed
+> La identidad y la existencia se construyen con el lenguaje. Las palabras son también un medio de ocupación de los imaginarios.
