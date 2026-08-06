@@ -8,9 +8,9 @@ main:
     url: /
     weight: 1
 
-  - name: Presentación
-    url: /about
-    weight: 10
+ # - name: Presentación
+ #   url: /about
+ #   weight: 10
 
   - name: Actividades
     url: /actividades
