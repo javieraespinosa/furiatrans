@@ -19,7 +19,7 @@ event_all_day: true
 
 authors: []
 tags:
-  - Webinaire
+  - Talleres en campo
 
 
 # Featured image
