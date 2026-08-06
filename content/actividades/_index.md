@@ -6,7 +6,7 @@ sections:
   - block: collection
     content:
       title: Actividades
-      text: Fresh from the lab notebook.
+      text: ""
       count: 0
       # page_type: post
       sort_by: Params.event_start
