@@ -24,7 +24,7 @@ tags:
 
 # Featured image
 image:
-  filename: featured.jpeg
+  filename: featured.jpg
   caption: "Llevando la furIA por distintos territorios"
 
 # Links
